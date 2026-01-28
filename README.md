@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0001-two-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shauryaplayer1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -25,5 +26,6 @@
 ## Math
 |  |
 | ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shauryaplayer1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
