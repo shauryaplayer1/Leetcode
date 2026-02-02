@@ -19,6 +19,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryaplayer1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shauryaplayer1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shauryaplayer1/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [1528-shuffle-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shauryaplayer1/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/shauryaplayer1/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shauryaplayer1/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String Matching
 |  |
 | ------- |
