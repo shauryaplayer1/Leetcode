@@ -39,12 +39,14 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shauryaplayer1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryaplayer1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
