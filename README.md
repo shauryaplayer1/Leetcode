@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryaplayer1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shauryaplayer1/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
