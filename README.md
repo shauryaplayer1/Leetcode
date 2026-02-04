@@ -53,6 +53,7 @@
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/shauryaplayer1/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +67,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/shauryaplayer1/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
