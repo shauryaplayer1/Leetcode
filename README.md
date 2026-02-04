@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryaplayer1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1528-shuffle-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shauryaplayer1/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryaplayer1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/shauryaplayer1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shauryaplayer1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shauryaplayer1/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
@@ -49,6 +51,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryaplayer1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
