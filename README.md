@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shauryaplayer1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -53,6 +54,7 @@
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shauryaplayer1/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
