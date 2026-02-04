@@ -49,6 +49,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryaplayer1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shauryaplayer1/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shauryaplayer1/Leetcode/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
