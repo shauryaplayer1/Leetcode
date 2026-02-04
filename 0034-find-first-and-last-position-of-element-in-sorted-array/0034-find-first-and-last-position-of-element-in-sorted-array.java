@@ -1,27 +1,62 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int ans[] = {-1,-1};
-        int n = nums.length;
+        int[] result = new int[2];
 
-        if(nums.length == 0) {
-            ans[0] = -1;
-            ans[1] = -1;
+        result[0] = binarySearch(nums,target);
+        result[1] = binarySearch2(nums,target);
+
+
+        return result;
+    }
+
+
+
+
+
+
+        public static int binarySearch(int nums[],int target){
+            int start = 0;
+            int end = nums.length - 1;
+            int ans = -1;
+
+            while(start <= end){
+                int mid = start + (end - start)/2;
+
+                if(nums[mid] == target){
+                    ans = mid;
+                    end = end -1;;
+                }
+                else if (nums[mid] < target){
+                    start = mid + 1 ;
+                }
+                else{
+                    end = mid -1;
+                }
+            }
             return ans;
         }
+      
 
-        for(int i=0; i<n; i++) {
-            if(nums[i] == target) {
-                ans[0] = i;
-                break;
-            }
-        }
+        public static int binarySearch2(int nums[],int target){
+            int start = 0;
+            int end = nums.length - 1;
+            int ans = -1;
 
-        for(int i=n-1; i>=0; i--) {
-            if(nums[i] == target) {
-                ans[1] = i;
-                break;
+            while(start <= end){
+                int mid = start + (end - start)/2;
+
+                if(nums[mid] == target){
+                    ans = mid;
+                    start = mid +1;
+                }
+                else if (nums[mid] < target){
+                    start = mid + 1;
+                }
+                else{
+                    end = mid -1;
+                }
             }
+            return ans;
         }
-        return ans;
-    }
+    
 }
