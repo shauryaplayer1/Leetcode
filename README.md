@@ -54,6 +54,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2235-add-two-integers](https://github.com/shauryaplayer1/Leetcode/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shauryaplayer1/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shauryaplayer1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
