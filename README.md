@@ -10,6 +10,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shauryaplayer1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shauryaplayer1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shauryaplayer1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
