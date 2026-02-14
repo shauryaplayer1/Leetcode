@@ -17,6 +17,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shauryaplayer1/Leetcode/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1528-shuffle-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shauryaplayer1/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shauryaplayer1/Leetcode/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
