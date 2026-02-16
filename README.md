@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/shauryaplayer1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shauryaplayer1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -31,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryaplayer1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/shauryaplayer1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/shauryaplayer1/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shauryaplayer1/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/shauryaplayer1/Leetcode/tree/master/2235-add-two-integers) |
@@ -80,6 +83,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shauryaplayer1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -104,10 +108,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
