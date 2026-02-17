@@ -68,6 +68,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/shauryaplayer1/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shauryaplayer1/Leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/shauryaplayer1/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shauryaplayer1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shauryaplayer1/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -131,9 +132,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shauryaplayer1/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/shauryaplayer1/Leetcode/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shauryaplayer1/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
