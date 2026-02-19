@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shauryaplayer1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -84,6 +85,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shauryaplayer1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryaplayer1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shauryaplayer1/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryaplayer1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -137,6 +140,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
