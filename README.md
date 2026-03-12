@@ -18,6 +18,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shauryaplayer1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shauryaplayer1/Leetcode/tree/master/0867-transpose-matrix) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shauryaplayer1/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1528-shuffle-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1528-shuffle-string) |
@@ -124,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryaplayer1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shauryaplayer1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shauryaplayer1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shauryaplayer1/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
