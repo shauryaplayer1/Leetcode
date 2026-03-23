@@ -61,6 +61,7 @@
 | [0556-next-greater-element-iii](https://github.com/shauryaplayer1/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shauryaplayer1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/shauryaplayer1/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/shauryaplayer1/Leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shauryaplayer1/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/shauryaplayer1/Leetcode/tree/master/1528-shuffle-string) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryaplayer1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shauryaplayer1/Leetcode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
