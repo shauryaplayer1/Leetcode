@@ -69,6 +69,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shauryaplayer1/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/shauryaplayer1/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shauryaplayer1/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shauryaplayer1/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## String Matching
 |  |
 | ------- |
