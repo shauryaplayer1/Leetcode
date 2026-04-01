@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/shauryaplayer1/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/shauryaplayer1/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/shauryaplayer1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shauryaplayer1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shauryaplayer1/Leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/shauryaplayer1/Leetcode/tree/master/0561-array-partition) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -170,4 +172,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shauryaplayer1/Leetcode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shauryaplayer1/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shauryaplayer1/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
