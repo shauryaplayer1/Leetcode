@@ -21,6 +21,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shauryaplayer1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shauryaplayer1/Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/shauryaplayer1/Leetcode/tree/master/0896-monotonic-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shauryaplayer1/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shauryaplayer1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryaplayer1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
